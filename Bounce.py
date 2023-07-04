@@ -139,3 +139,6 @@ while True:
 print(sum(path))
 
 # good solution
+
+# Dimitar
+print('Hello world')
