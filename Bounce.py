@@ -137,3 +137,5 @@ while True:
     #print("directions:", dir_h, dir_v)
 
 print(sum(path))
+
+# good solution
