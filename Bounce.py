@@ -142,3 +142,7 @@ print(sum(path))
 
 # Dimitar
 print('Hello world')
+
+
+# Donko
+print("Zdraveyte, kolegi!")
