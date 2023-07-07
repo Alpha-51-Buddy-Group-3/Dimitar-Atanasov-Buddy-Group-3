@@ -151,3 +151,6 @@ print("Zdraveyte, kolegi!")
 
 #Todor
 print("test")
+
+#Donko
+print("testvam")
